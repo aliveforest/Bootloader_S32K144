@@ -113,7 +113,7 @@ void LPUART1_RxTx_IRQHandler(void){
 		data_c = 0;
 		packets_index++;
 	}else if(receivebuff[0] < YM_SOH || receivebuff[0] > YM_STX){
-		/* 如果接收的不是YM命令 */
+		/* 如果接收的不是帧头命令 */
 		data_c = receivebuff[0];
 		memset(receivebuff,0, sizeof(receivebuff)/sizeof(receivebuff[0])); /* 清空receivebuff数组 */
 		rev_i = 0;
