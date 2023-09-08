@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ymodem.h": "c",
+        "s32k144.h": "c",
+        "flashwriteread.h": "c",
+        "cpu.h": "c",
+        "lpuart.h": "c",
+        "stdlib.h": "c"
+    }
+}
