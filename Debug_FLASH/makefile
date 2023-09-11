@@ -30,6 +30,9 @@ endif
 -include ../makefile.defs
 
 # Add inputs and outputs from these tool invocations to the build variables 
+SECONDARY_FLASH += \
+Bootloader.bin \
+
 SECONDARY_SIZE += \
 Bootloader.siz \
 
@@ -45,6 +48,12 @@ Bootloader.elf: $(OBJS) D:/dengtongbei/workspaceS32DS.ARM.2.2/Bootloader/Project
 	@echo 'Finished building target: $@'
 	@echo ' '
 
+Bootloader.bin: Bootloader.elf
+	@echo 'Invoking: Standard S32DS Create Flash Image'
+	arm-none-eabi-objcopy -O binary Bootloader.elf  "Bootloader.bin"
+	@echo 'Finished building: $@'
+	@echo ' '
+
 Bootloader.siz: Bootloader.elf
 	@echo 'Invoking: Standard S32DS Print Size'
 	arm-none-eabi-size --format=berkeley Bootloader.elf
@@ -56,7 +65,7 @@ clean:
 	-$(RM) ./*
 	-@echo ' '
 
-secondary-outputs: $(SECONDARY_SIZE)
+secondary-outputs: $(SECONDARY_FLASH) $(SECONDARY_SIZE)
 
 .PHONY: all clean dependents
 
