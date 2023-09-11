@@ -5,7 +5,7 @@
 static uint32_t fac_us = 80000000u / 1000000u; // SYS_CLK内核时钟为80MHz
 
 
-void systick_delay_init(void) {
+void systick_later_init(void) {
 	S32_SysTick->CSR = S32_SysTick_CSR_ENABLE(0);   /**< SysTick 控制和状态寄存器，偏移量：0x0 */
 	S32_SysTick->RVR = 0xFFFFFFul; //重装载寄存器 /**< SysTick 重载值寄存器，偏移量：0x4 */
 	S32_SysTick->CVR = 0ul; //当前计数  /**< SysTick 当前值寄存器，偏移量：0x8 */
