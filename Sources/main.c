@@ -74,13 +74,11 @@ int main(void)
     PEX_RTOS_INIT();                   /* Initialization of the selected RTOS. Macro is defined by the RTOS component. */
   #endif
   /*** End of Processor Expert internal initialization.                    ***/
-	CLOCK_SYS_Init(g_clockManConfigsArr, CLOCK_MANAGER_CONFIG_CNT,
-				   g_clockManCallbacksArr, CLOCK_MANAGER_CALLBACK_CNT);
-	CLOCK_SYS_UpdateConfiguration(0U, CLOCK_MANAGER_POLICY_AGREEMENT);
-	systick_delay_init();
-	LPUART1_init();
-	RGB_LED_KEY_init();
-    FLASH_DRV_Init(&Flash1_InitConfig0, &flashConfig); // Init
+	CLOCK_DRV_Init(&clockMan1_InitConfig0);             /* Initialize clock     */
+	systick_later_init();                               /* Initialize later fcn */
+	LPUART1_init();                                     /* Initialize LPUART1   */
+	RGB_LED_KEY_init();                                 /* Initialize LED KEY   */
+	FLASH_DRV_Init(&Flash1_InitConfig0, &flashConfig);  /* Initialize flash     */
   /* Write your code here */
     /* 从给定的内存地址中读取一32位的无符号整数，并将其存储在变量appstack */
 	appstack = *(uint32_t *)(APP_START_ADDRESS);
