@@ -20,14 +20,8 @@ E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eab
                               E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
                               ./Sources/LPUART.o (strlen)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
-                              ./Sources/main.o (strtol)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
                               ./Sources/LPUART.o (vsprintf)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
-                              E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o) (__locale_ctype_ptr_l)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
-                              E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o) (__ascii_mbtowc)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
                               E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
@@ -36,12 +30,6 @@ E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eab
                               E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (_printf_i)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
                               E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o) (errno)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
-                              E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o) (strcmp)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
-                              E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o) (__ascii_wctomb)
-E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
-                              E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o) (_ctype_)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
                               E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o) (memchr)
 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
@@ -102,9 +90,9 @@ Discarded input sections
  .text          0x00000000        0x0 ./Generated_Code/clockMan1.o
  .data          0x00000000        0x0 ./Generated_Code/clockMan1.o
  .bss           0x00000000        0x0 ./Generated_Code/clockMan1.o
- .data.g_clockManConfigsArr
-                0x00000000        0x4 ./Generated_Code/clockMan1.o
  .bss.g_clockManCallbacksArr
+                0x00000000        0x4 ./Generated_Code/clockMan1.o
+ .data.g_clockManConfigsArr
                 0x00000000        0x4 ./Generated_Code/clockMan1.o
  .text          0x00000000        0x0 ./Generated_Code/pin_mux.o
  .data          0x00000000        0x0 ./Generated_Code/pin_mux.o
@@ -123,424 +111,282 @@ Discarded input sections
  .text          0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .data          0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .bss           0x00000000        0x0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .data.SystemCoreClock
-                0x00000000        0x4 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .text.SystemCoreClockUpdate
-                0x00000000       0xf0 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+                0x00000000       0x80 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .text.SystemSoftwareReset
-                0x00000000       0x40 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .rodata.fircFreq.6321
+                0x00000000       0x18 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .data.SystemCoreClock
                 0x00000000        0x4 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .text          0x00000000        0x0 ./SDK/platform/devices/startup.o
  .data          0x00000000        0x0 ./SDK/platform/devices/startup.o
  .bss           0x00000000        0x0 ./SDK/platform/devices/startup.o
- .rodata.s_vectors
-                0x00000000        0x4 ./SDK/platform/devices/startup.o
  .text          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .data          0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .bss           0x00000000        0x0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetRtcClkSrc
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetEimClockGate
-                0x00000000       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetErmClockGate
-                0x00000000       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetDmaClockGate
-                0x00000000       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetMpuClockGate
-                0x00000000       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetMscmClockGate
-                0x00000000       0x2e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetFtm0ExternalClkPinMode
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetFtm1ExternalClkPinMode
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetFtm2ExternalClkPinMode
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetFtm3ExternalClkPinMode
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetLpo32KStatus
-                0x00000000       0x26 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetLpo1KStatus
-                0x00000000       0x26 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetLpoClkSelectorValue
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetClockoutStatus
-                0x00000000       0x26 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetClockoutDividerValue
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_GetClockoutSelectorValue
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetClockoutSourceSel
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetCurrentCoreClockDividerRatio
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetCurrentBusClockDividerRatio
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetCurrentSlowClockDividerRatio
-                0x00000000       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetFircFirstAsyncDivider
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetFircSecondAsyncDivider
-                0x00000000       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSircFirstAsyncDivider
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSircSecondAsyncDivider
-                0x00000000       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSoscFirstAsyncDivider
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSoscSecondAsyncDivider
-                0x00000000       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllFirstAsyncDivider
-                0x00000000       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllSecondAsyncDivider
-                0x00000000       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_GetClockMode
+ .text.CLOCK_SYS_GetSystemClockFreq
+                0x00000000       0x78 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetScgClkOutFreq
                 0x00000000       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_GetClockSourceSel
-                0x00000000       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_GetFracValueSel
-                0x00000000       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_GetDividerSel
-                0x00000000       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PMC_GetLpoMode
-                0x00000000       0x2c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSysAsyncFreq
+                0x00000000       0xd4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimRtcClkFreq
+                0x00000000       0x50 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetPeripheralClock
+                0x00000000       0x78 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetLpoFreq
+                0x00000000       0x4c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetSimClkOutFreq
+                0x00000000       0x98 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionToTmpSysClk
+                0x00000000       0xee ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentSysClkConfig
+                0x00000000       0x5c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConvertAsyncDividerValue
+                0x00000000       0x6a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_GetFreq
+                0x00000000      0x3b0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetModuleClock
+                0x00000000      0x168 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetSystemClock
+                0x00000000      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_GetSystemClockSource
+                0x00000000       0x5c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_SetClockSource
+                0x00000000      0x2b0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_Init
+                0x00000000       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_UpdateConfiguration
+                0x00000000       0xe8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetCurrentConfiguration
+                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetErrorCallback
+                0x00000000       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_GetFreq
+                0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetConfiguration
+                0x00000000        0x8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .bss.g_clockState
                 0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .rodata.peripheralFeaturesList
                 0x00000000       0x4f ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetScgClockFreq
-                0x00000000      0x144 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSimClockFreq
-                0x00000000      0x23c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_CheckPCCClock
-                0x00000000       0x68 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetPccClockFreq
-                0x00000000      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_GetFreq
-                0x00000000       0x5c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetPeripheralClock
-                0x00000000       0xd8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSimClkOutFreq
-                0x00000000       0xf0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetScgClkOutFreq
-                0x00000000       0x74 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSimRtcClkFreq
-                0x00000000       0x78 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSystemClockFreq
-                0x00000000       0xc0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSysAsyncFreq
-                0x00000000      0x11c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetLpoFreq
-                0x00000000       0x88 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_TransitionToTmpSysClk
-                0x00000000      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetCurrentSysClkConfig
-                0x00000000       0x98 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConvertAsyncDividerValue
-                0x00000000      0x15c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetDefaultModuleClkCfgSource
-                0x00000000       0x58 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetClockGate
-                0x00000000       0x80 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_SetModuleClock
-                0x00000000      0x10c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSysClockMode
-                0x00000000       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSysClockSource
-                0x00000000       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_SetSystemClock
-                0x00000000      0x12c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_GetSystemClockSource
-                0x00000000       0xa0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetSircClockSource
-                0x00000000       0xcc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetFircClockSource
-                0x00000000       0xc8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetExtRef
-                0x00000000       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetSoscClockSource
-                0x00000000      0x118 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetSpllClockSource
-                0x00000000       0xe4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_SetClockSource
-                0x00000000      0x150 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_Init
-                0x00000000       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_UpdateConfiguration
-                0x00000000      0x174 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetCurrentConfiguration
-                0x00000000       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetErrorCallback
-                0x00000000       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetFreq
-                0x00000000       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetConfiguration
-                0x00000000       0x18 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.tmpSysClk.7661
-                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .rodata.sysClkDivMappings.7666
                 0x00000000       0x10 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.defSysClk.7745
-                0x00000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .rodata.sysClkDivMappings.7744
                 0x00000000       0x11 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .text          0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
  .data          0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
  .bss           0x00000000        0x0 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_GetPFlashProtection
-                0x00000000       0x50 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_SetPFlashProtection
-                0x00000000       0xb0 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_GetSecurityState
-                0x00000000       0x48 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_SecurityBypass
-                0x00000000       0x6c ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_EraseAllBlock
-                0x00000000       0x40 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_VerifyAllBlock
-                0x00000000       0x48 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_VerifySection
-                0x00000000       0xe0 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_EraseSuspend
                 0x00000000       0x50 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_EraseResume
-                0x00000000       0x54 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_ReadOnce
-                0x00000000       0x7c ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_ProgramOnce
-                0x00000000       0x74 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_ProgramCheck
-                0x00000000       0x52 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_CheckSum
-                0x00000000       0xb4 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_ProgramSection
-                0x00000000       0xe8 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_EraseBlock
-                0x00000000       0xbc ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_VerifyBlock
-                0x00000000       0xc4 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_GetEERAMProtection
+ .text.FLASH_DRV_GetSecurityState
+                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SecurityBypass
                 0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_SetEERAMProtection
-                0x00000000       0x4c ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_SetFlexRamFunction
-                0x00000000       0xd4 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_WaitEEWriteToFinish
-                0x00000000       0xc4 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_EEEWrite
-                0x00000000       0xbc ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_DEFlashPartition
-                0x00000000       0x80 ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_GetDFlashProtection
+ .text.FLASH_DRV_EraseAllBlock
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_VerifyAllBlock
+                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_VerifySection
+                0x00000000       0x6c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseSuspend
+                0x00000000       0x34 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseResume
                 0x00000000       0x38 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ReadOnce
+                0x00000000       0x4c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ProgramOnce
+                0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ProgramCheck
+                0x00000000       0xec ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_CheckSum
+                0x00000000       0x6a ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_ProgramSection
+                0x00000000       0x78 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EraseBlock
+                0x00000000       0x64 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_VerifyBlock
+                0x00000000       0x64 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetEERAMProtection
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetEERAMProtection
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_SetFlexRamFunction
+                0x00000000       0x68 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_EEEWrite
+                0x00000000       0xdc ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_DEFlashPartition
+                0x00000000       0x3c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .text.FLASH_DRV_GetDFlashProtection
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_SetDFlashProtection
-                0x00000000       0x48 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_EraseAllBlockUnsecure
-                0x00000000       0x40 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x24 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_EnableCmdCompleteInterupt
-                0x00000000       0x34 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_DisableCmdCompleteInterupt
-                0x00000000       0x30 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_EnableReadColisionInterupt
-                0x00000000       0x34 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_DisableReadColisionInterupt
-                0x00000000       0x30 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x18 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_EnableDoubleBitFaultInterupt
-                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x20 ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_DisableDoubleBitFaultInterupt
-                0x00000000       0x28 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/flash/flash_driver.o
  .text.FLASH_DRV_GetDefaultConfig
-                0x00000000       0x3a ./SDK/platform/drivers/src/flash/flash_driver.o
- .text.FLASH_DRV_ProgramCheckExecute
-                0x00000000      0x13c ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000000       0x1e ./SDK/platform/drivers/src/flash/flash_driver.o
  .text          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .data          0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .bss           0x00000000        0x0 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_InstallHandler
-                0x00000000       0x78 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x40 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_EnableIRQ
-                0x00000000       0x34 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x18 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_DisableIRQ
-                0x00000000       0x34 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_SetPriority
-                0x00000000       0x8c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x58 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_GetPriority
-                0x00000000       0x90 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x44 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_ClearPending
-                0x00000000       0x34 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_SetPending
-                0x00000000       0x34 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_GetPending
-                0x00000000       0x38 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text.INT_SYS_GetActive
-                0x00000000       0x38 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00000000       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
  .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
  .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_GetPinsDirection
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_SetPinDirection
-                0x00000000       0x44 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_SetPinsDirection
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_SetPortInputDisable
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_GetPortInputDisable
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_WritePin
-                0x00000000       0x44 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_WritePins
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_GetPinsOutput
-                0x00000000       0x20 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_SetPins
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_ClearPins
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_TogglePins
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GPIO_ReadPins
-                0x00000000       0x20 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_SetPullSel
-                0x00000000       0x8c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_SetPinIntSel
-                0x00000000       0x44 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GetPinIntSel
-                0x00000000       0x2e ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_ClearPinIntFlagCmd
-                0x00000000       0x3a ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_EnableDigitalFilter
-                0x00000000       0x2c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DisableDigitalFilter
-                0x00000000       0x2e ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_ConfigDigitalFilter
-                0x00000000       0x32 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_GetPortIntFlag
-                0x00000000       0x1e ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_ClearPortIntFlagCmd
-                0x00000000       0x1e ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_Init
-                0x00000000       0x3e ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000       0x20 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPullSel
-                0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000       0x3a ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetMuxModeSel
-                0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPinIntSel
-                0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_GetPinIntSel
-                0x00000000       0x1c ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_ClearPinIntFlagCmd
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_EnableDigitalFilter
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_DisableDigitalFilter
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_ConfigDigitalFilter
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_GetPortIntFlag
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
- .text.PINS_DRV_ClearPortIntFlagCmd
                 0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPinIntSel
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPinIntFlagCmd
+                0x00000000        0xe ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_EnableDigitalFilter
+                0x00000000       0x12 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_DisableDigitalFilter
+                0x00000000       0x14 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ConfigDigitalFilter
+                0x00000000       0x16 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_GetPortIntFlag
+                0x00000000        0x6 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .text.PINS_DRV_ClearPortIntFlagCmd
+                0x00000000        0xa ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_GetPinsDirection
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPinDirection
-                0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPinsDirection
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPortInputDisable
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_GetPortInputDisable
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetGlobalPinControl
-                0x00000000       0x2e ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetGlobalIntControl
-                0x00000000       0x2e ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x8 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_WritePin
-                0x00000000       0x22 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_WritePins
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_GetPinsOutput
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_SetPins
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_ClearPins
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_TogglePins
-                0x00000000       0x1a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text.PINS_DRV_ReadPins
-                0x00000000       0x18 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_info    0x00000000     0x1146 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_abbrev  0x00000000      0x23a ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000        0x4 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_info    0x00000000     0x13d8 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_abbrev  0x00000000      0x2db ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_loc     0x00000000      0x77f ./SDK/platform/drivers/src/pins/pins_driver.o
  .debug_aranges
-                0x00000000      0x188 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_ranges  0x00000000      0x178 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_line    0x00000000      0x628 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_str     0x00000000     0x13f2 ./SDK/platform/drivers/src/pins/pins_driver.o
+                0x00000000       0xe0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_ranges  0x00000000       0xd0 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_line    0x00000000      0x4d3 ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_str     0x00000000     0x1441 ./SDK/platform/drivers/src/pins/pins_driver.o
  .comment       0x00000000       0xa1 ./SDK/platform/drivers/src/pins/pins_driver.o
- .debug_frame   0x00000000      0x6dc ./SDK/platform/drivers/src/pins/pins_driver.o
+ .debug_frame   0x00000000      0x1e4 ./SDK/platform/drivers/src/pins/pins_driver.o
  .ARM.attributes
                 0x00000000       0x39 ./SDK/platform/drivers/src/pins/pins_driver.o
  .text          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .data          0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .bss           0x00000000        0x0 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .text.PINS_GPIO_WritePin
-                0x00000000       0x44 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text.PINS_GetAdcInterleaveVal
-                0x00000000       0xe4 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000       0x70 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text.PINS_Init
-                0x00000000      0x1ec ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000      0x114 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text.PINS_SetMuxModeSel
-                0x00000000       0x8c ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000       0x50 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text.PINS_SetGlobalPinControl
-                0x00000000       0x92 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000       0x2c ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text.PINS_SetGlobalIntControl
-                0x00000000       0x58 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .debug_info    0x00000000      0x862 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .debug_abbrev  0x00000000      0x191 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000       0x24 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_info    0x00000000      0x8a8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_abbrev  0x00000000      0x1f5 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_loc     0x00000000      0x56a ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .debug_aranges
-                0x00000000       0x48 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .debug_ranges  0x00000000       0x38 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .debug_line    0x00000000      0x30a ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+                0x00000000       0x40 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_ranges  0x00000000       0x30 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_line    0x00000000      0x2f9 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .debug_str     0x00000000      0x929 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .comment       0x00000000       0xa1 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
- .debug_frame   0x00000000       0xf8 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
+ .debug_frame   0x00000000       0x98 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .ARM.attributes
                 0x00000000       0x39 ./SDK/platform/drivers/src/pins/pins_port_hw_access.o
  .text          0x00000000        0x0 ./Sources/FlashWriteRead.o
  .data          0x00000000        0x0 ./Sources/FlashWriteRead.o
  .bss           0x00000000        0x0 ./Sources/FlashWriteRead.o
  .text.Flash_Erase_Write_Data
-                0x00000000       0x9c ./Sources/FlashWriteRead.o
+                0x00000000       0x84 ./Sources/FlashWriteRead.o
  .text.Flash_Read_Data
-                0x00000000       0x3c ./Sources/FlashWriteRead.o
+                0x00000000       0x1c ./Sources/FlashWriteRead.o
+ .rodata.Flash_Erase_Write_Data.str1.4
+                0x00000000       0x58 ./Sources/FlashWriteRead.o
  .text          0x00000000        0x0 ./Sources/LPUART.o
  .data          0x00000000        0x0 ./Sources/LPUART.o
  .bss           0x00000000        0x0 ./Sources/LPUART.o
+ .text.LPUART1_NVIC_init_IRQs
+                0x00000000       0x2c ./Sources/LPUART.o
  .text.LPUART1_receive_char
-                0x00000000       0x50 ./Sources/LPUART.o
+                0x00000000       0x3c ./Sources/LPUART.o
  .text          0x00000000        0x0 ./Sources/RGB_LED.o
  .data          0x00000000        0x0 ./Sources/RGB_LED.o
  .bss           0x00000000        0x0 ./Sources/RGB_LED.o
  .text.RED_toggle
-                0x00000000       0x20 ./Sources/RGB_LED.o
+                0x00000000       0x10 ./Sources/RGB_LED.o
  .text.GREEN_toggle
-                0x00000000       0x20 ./Sources/RGB_LED.o
+                0x00000000       0x10 ./Sources/RGB_LED.o
  .text.BLUE_toggle
-                0x00000000       0x20 ./Sources/RGB_LED.o
+                0x00000000       0x10 ./Sources/RGB_LED.o
  .text          0x00000000        0x0 ./Sources/Ymodem.o
  .data          0x00000000        0x0 ./Sources/Ymodem.o
  .bss           0x00000000        0x0 ./Sources/Ymodem.o
+ .bss.PageSize  0x00000000        0x4 ./Sources/Ymodem.o
  .data.FlashDestination
                 0x00000000        0x4 ./Sources/Ymodem.o
- .bss.PageSize  0x00000000        0x4 ./Sources/Ymodem.o
  .text          0x00000000        0x0 ./Sources/latency.o
  .data          0x00000000        0x0 ./Sources/latency.o
  .bss           0x00000000        0x0 ./Sources/latency.o
  .text.later_100_ns
-                0x00000000       0x3c ./Sources/latency.o
+                0x00000000       0x20 ./Sources/latency.o
  .text.later_1_us
-                0x00000000       0x34 ./Sources/latency.o
+                0x00000000       0x14 ./Sources/latency.o
  .text          0x00000000        0x0 ./Sources/main.o
  .data          0x00000000        0x0 ./Sources/main.o
  .bss           0x00000000        0x0 ./Sources/main.o
@@ -586,34 +432,9 @@ Discarded input sections
  .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
  .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
  .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
- .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .text._strtol_r
-                0x00000000       0x24 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .text.strtol_l
-                0x00000000       0x1c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
  .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
  .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
  .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
- .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .text._setlocale_r
-                0x00000000       0x38 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .text.__locale_mb_cur_max
-                0x00000000       0x1c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .text.__locale_ctype_ptr
-                0x00000000       0x1c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .text.setlocale
-                0x00000000       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .bss._PathLocale
-                0x00000000        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .text._mbtowc_r
-                0x00000000       0x24 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
  .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
@@ -632,20 +453,6 @@ Discarded input sections
                 0x00000000       0x1a E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
  .text._reclaim_reent
                 0x00000000       0xb8 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
- .text          0x00000000       0x14 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .debug_frame   0x00000000       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .ARM.attributes
-                0x00000000       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .text._wctomb_r
-                0x00000000       0x24 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
- .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
- .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
  .data          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
  .bss           0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
  .text          0x00000000        0x0 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
@@ -754,7 +561,7 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
  .FlashConfig   0x00000400       0x10 ./Project_Settings/Startup_Code/startup_S32K144.o
                 0x00000410                . = ALIGN (0x4)
 
-.text           0x00000410     0x3cb8
+.text           0x00000410     0x2578
                 0x00000410                . = ALIGN (0x4)
  *(.text)
  .text          0x00000410       0x4c ./Project_Settings/Startup_Code/startup_S32K144.o
@@ -898,377 +705,236 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
                 0x00000470                memchr
  *(.text*)
  .text.SystemInit
-                0x00000510       0x58 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+                0x00000510       0x3c ./SDK/platform/devices/S32K144/startup/system_S32K144.o
                 0x00000510                SystemInit
  .text.init_data_bss
-                0x00000568      0x12c ./SDK/platform/devices/startup.o
-                0x00000568                init_data_bss
- .text.SIM_SetLpoClocks
-                0x00000694       0x72 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetEimClockGate
-                0x00000706       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetErmClockGate
-                0x00000744       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetDmaClockGate
-                0x00000782       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetMpuClockGate
-                0x000007c0       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetMscmClockGate
-                0x000007fe       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetClockout
-                0x0000083c       0x5e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetTraceClockSource
-                0x0000089a       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_ClearTraceClockConfig
-                0x000008d2       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SIM_SetTraceClockConfig
-                0x000008f0       0x40 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetCurrentSystemClockSource
-                0x00000930       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetRunClockControl
-                0x0000094e       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetVlprClockControl
-                0x00000992       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetHsrunClockControl
-                0x000009d6       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetFircAsyncConfig
-                0x00000a1a       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSircAsyncConfig
-                0x00000a4c       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSoscAsyncConfig
-                0x00000a7e       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSpllAsyncConfig
-                0x00000ab0       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetClockoutSourceSel
-                0x00000ae2       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSircSystemClockMode
-                0x00000b1a       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSircStatus
-                0x00000b4c       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSircRange
-                0x00000b74       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSircLock
-                0x00000b92       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSircControl
-                0x00000bb6       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSircConfiguration
-                0x00000bd2       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSircControl
-                0x00000bf6       0x5a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetFircSystemClockMode
-                0x00000c50       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetFircStatus
-                0x00000c82       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetFircRange
-                0x00000caa       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearFircLock
-                0x00000cc8       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearFircControl
-                0x00000cec       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetFircConfiguration
-                0x00000d0a       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetFircControl
-                0x00000d2e       0x42 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSoscSystemClockMode
-                0x00000d70       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSoscStatus
-                0x00000da2       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSoscLock
-                0x00000dca       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSoscControl
-                0x00000dee       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSoscConfiguration
-                0x00000e0c       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSoscControl
-                0x00000e48       0x5e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllSystemClockMode
-                0x00000ea6       0x32 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllStatus
-                0x00000ed8       0x28 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllPredivider
-                0x00000f00       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_GetSpllMultiplier
-                0x00000f20       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSpllLock
-                0x00000f40       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_ClearSpllControl
-                0x00000f64       0x1e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSpllConfiguration
-                0x00000f82       0x34 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SCG_SetSpllControl
-                0x00000fb6       0x5e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_SetPeripheralClockControl
-                0x00001014       0x60 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PCC_SetClockMode
-                0x00001074       0x70 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PMC_SetLpoMode
-                0x000010e4       0x3e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.PMC_SetLpoTrimValue
-                0x00001122       0x5e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.SMC_GetCurrentRunningMode
-                0x00001180       0x1a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_DRV_Init
-                0x0000119a       0x6e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
-                0x0000119a                CLOCK_DRV_Init
- .text.CLOCK_SYS_SetScgConfiguration
-                0x00001208       0xb4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetPccConfiguration
-                0x000012bc       0xb8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetSimConfiguration
-                0x00001374      0x124 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetPmcConfiguration
-                0x00001498       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetDefaultConfiguration
-                0x000014d0      0x24c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x0000054c       0xd8 ./SDK/platform/devices/startup.o
+                0x0000054c                init_data_bss
  .text.CLOCK_SYS_GetCurrentRunMode
-                0x0000171c       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_TransitionSystemClock
-                0x00001760       0x60 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureSIRC
-                0x000017c0       0xc8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureFIRC
-                0x00001888       0xc4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureSOSC
-                0x0000194c      0x124 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureSPLL
-                0x00001a70      0x118 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureTemporarySystemClock
-                0x00001b88       0x68 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_ConfigureModulesFromScg
-                0x00001bf0      0x1c8 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_GetSrcFreq
-                0x00001db8       0x64 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.CLOCK_SYS_SetSystemClockConfig
-                0x00001e1c      0x234 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00000624       0x24 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .text.CLOCK_SYS_GetSysOscFreq
-                0x00002050       0x30 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00000648       0x1c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSOSC
+                0x00000664      0x12c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .text.CLOCK_SYS_GetSircFreq
-                0x00002080       0x38 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00000790       0x2c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSIRC
+                0x000007bc       0xc4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .text.CLOCK_SYS_GetFircFreq
-                0x000020b8       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00000880       0x20 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureFIRC
+                0x000008a0       0xb4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .text.CLOCK_SYS_GetSysPllFreq
-                0x000020f4       0x64 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .text.FLASH_DRV_GetDEPartitionCode
-                0x00002158      0x104 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00000954       0x44 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_ConfigureSPLL
+                0x00000998      0x104 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_SetSystemClockConfig
+                0x00000a9c      0x1e4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_SYS_TransitionSystemClock
+                0x00000c80       0x3c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .text.CLOCK_DRV_Init
+                0x00000cbc      0x598 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x00000cbc                CLOCK_DRV_Init
  .text.FLASH_DRV_Init
-                0x0000225c       0x78 ./SDK/platform/drivers/src/flash/flash_driver.o
-                0x0000225c                FLASH_DRV_Init
+                0x00001254       0xcc ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001254                FLASH_DRV_Init
  .text.FLASH_DRV_EraseSector
-                0x000022d4       0xfc ./SDK/platform/drivers/src/flash/flash_driver.o
-                0x000022d4                FLASH_DRV_EraseSector
+                0x00001320       0x98 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x00001320                FLASH_DRV_EraseSector
  .text.FLASH_DRV_Program
-                0x000023d0      0x114 ./SDK/platform/drivers/src/flash/flash_driver.o
-                0x000023d0                FLASH_DRV_Program
+                0x000013b8       0xb8 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x000013b8                FLASH_DRV_Program
  .text.INT_SYS_EnableIRQGlobal
-                0x000024e4       0x30 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
-                0x000024e4                INT_SYS_EnableIRQGlobal
+                0x00001470       0x1c ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x00001470                INT_SYS_EnableIRQGlobal
  .text.INT_SYS_DisableIRQGlobal
-                0x00002514       0x20 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
-                0x00002514                INT_SYS_DisableIRQGlobal
+                0x0000148c       0x10 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x0000148c                INT_SYS_DisableIRQGlobal
  .text.Flash_Erase_Sector
-                0x00002534       0x48 ./Sources/FlashWriteRead.o
-                0x00002534                Flash_Erase_Sector
+                0x0000149c       0x38 ./Sources/FlashWriteRead.o
+                0x0000149c                Flash_Erase_Sector
  .text.Flash_Write_Data
-                0x0000257c       0x4c ./Sources/FlashWriteRead.o
-                0x0000257c                Flash_Write_Data
+                0x000014d4       0x3c ./Sources/FlashWriteRead.o
+                0x000014d4                Flash_Write_Data
  .text.Flash_Size_Calc
-                0x000025c8       0x36 ./Sources/FlashWriteRead.o
-                0x000025c8                Flash_Size_Calc
- *fill*         0x000025fe        0x2 
+                0x00001510       0x12 ./Sources/FlashWriteRead.o
+                0x00001510                Flash_Size_Calc
+ *fill*         0x00001522        0x2 
  .text.LPUART1_init
-                0x00002600       0x84 ./Sources/LPUART.o
-                0x00002600                LPUART1_init
+                0x00001524       0x74 ./Sources/LPUART.o
+                0x00001524                LPUART1_init
  .text.LPUART1_transmit_char
-                0x00002684       0x30 ./Sources/LPUART.o
-                0x00002684                LPUART1_transmit_char
+                0x00001598       0x18 ./Sources/LPUART.o
+                0x00001598                LPUART1_transmit_char
  .text.LPUART1_transmit_string
-                0x000026b4       0x3a ./Sources/LPUART.o
-                0x000026b4                LPUART1_transmit_string
- *fill*         0x000026ee        0x2 
+                0x000015b0       0x1c ./Sources/LPUART.o
+                0x000015b0                LPUART1_transmit_string
  .text.LPUART1_printf
-                0x000026f0       0x30 ./Sources/LPUART.o
-                0x000026f0                LPUART1_printf
+                0x000015cc       0x2c ./Sources/LPUART.o
+                0x000015cc                LPUART1_printf
  .text.LPUART1_RxTx_IRQHandler
-                0x00002720       0xb8 ./Sources/LPUART.o
-                0x00002720                LPUART1_RxTx_IRQHandler
- .text.LPUART1_NVIC_init_IRQs
-                0x000027d8       0x64 ./Sources/LPUART.o
-                0x000027d8                LPUART1_NVIC_init_IRQs
+                0x000015f8       0x98 ./Sources/LPUART.o
+                0x000015f8                LPUART1_RxTx_IRQHandler
  .text.RGB_LED_KEY_init
-                0x0000283c       0xcc ./Sources/RGB_LED.o
-                0x0000283c                RGB_LED_KEY_init
- .text.SW2_key  0x00002908       0x24 ./Sources/RGB_LED.o
-                0x00002908                SW2_key
- .text.SW3_key  0x0000292c       0x24 ./Sources/RGB_LED.o
-                0x0000292c                SW3_key
- .text.Send_Byte
-                0x00002950       0x1c ./Sources/Ymodem.o
+                0x00001690       0x88 ./Sources/RGB_LED.o
+                0x00001690                RGB_LED_KEY_init
+ .text.SW2_key  0x00001718       0x10 ./Sources/RGB_LED.o
+                0x00001718                SW2_key
+ .text.SW3_key  0x00001728       0x10 ./Sources/RGB_LED.o
+                0x00001728                SW3_key
  .text.Ym_Cmd_Process
-                0x0000296c       0xa4 ./Sources/Ymodem.o
+                0x00001738       0x8c ./Sources/Ymodem.o
  .text.Clear_YM
-                0x00002a10       0x5a ./Sources/Ymodem.o
-                0x00002a10                Clear_YM
- *fill*         0x00002a6a        0x2 
- .text.File_Information_Storage
-                0x00002a6c      0x10c ./Sources/Ymodem.o
- .text.Ymodem_Receive_File
-                0x00002b78      0x260 ./Sources/Ymodem.o
-                0x00002b78                Ymodem_Receive_File
+                0x000017c4       0x2a ./Sources/Ymodem.o
+                0x000017c4                Clear_YM
+ .text.crc16    0x000017ee       0x44 ./Sources/Ymodem.o
+                0x000017ee                crc16
+ *fill*         0x00001832        0x2 
  .text.Receive_Packet
-                0x00002dd8      0x1b8 ./Sources/Ymodem.o
-                0x00002dd8                Receive_Packet
- .text.crc16    0x00002f90       0x78 ./Sources/Ymodem.o
-                0x00002f90                crc16
+                0x00001834      0x110 ./Sources/Ymodem.o
+                0x00001834                Receive_Packet
+ .text.Ymodem_Receive_File
+                0x00001944      0x2c4 ./Sources/Ymodem.o
+                0x00001944                Ymodem_Receive_File
  .text.systick_later_init
-                0x00003008       0x38 ./Sources/latency.o
-                0x00003008                systick_later_init
+                0x00001c08       0x20 ./Sources/latency.o
+                0x00001c08                systick_later_init
  .text.later_us
-                0x00003040       0x48 ./Sources/latency.o
-                0x00003040                later_us
+                0x00001c28       0x28 ./Sources/latency.o
+                0x00001c28                later_us
  .text.later_ms
-                0x00003088       0x2c ./Sources/latency.o
-                0x00003088                later_ms
+                0x00001c50       0x22 ./Sources/latency.o
+                0x00001c50                later_ms
+ *fill*         0x00001c72        0x2 
  .text.Boot_to_App
-                0x000030b4       0x4c ./Sources/main.o
-                0x000030b4                Boot_to_App
- .text.main     0x00003100       0xd8 ./Sources/main.o
-                0x00003100                main
- .text.malloc   0x000031d8       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
-                0x000031d8                malloc
- .text.free     0x000031e8       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
-                0x000031e8                free
- .text.memcpy   0x000031f8       0x16 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
-                0x000031f8                memcpy
- .text.memset   0x0000320e       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
-                0x0000320e                memset
- *fill*         0x0000321e        0x2 
- .text._free_r  0x00003220       0x9c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
-                0x00003220                _free_r
+                0x00001c74       0x34 ./Sources/main.o
+                0x00001c74                Boot_to_App
+ .text.main     0x00001ca8       0xcc ./Sources/main.o
+                0x00001ca8                main
+ .text.malloc   0x00001d74       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x00001d74                malloc
+ .text.free     0x00001d84       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+                0x00001d84                free
+ .text.memcpy   0x00001d94       0x16 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x00001d94                memcpy
+ .text.memset   0x00001daa       0x10 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x00001daa                memset
+ *fill*         0x00001dba        0x2 
+ .text._free_r  0x00001dbc       0x9c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x00001dbc                _free_r
  .text._malloc_r
-                0x000032bc       0xbc E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x000032bc                _malloc_r
- .text._sbrk_r  0x00003378       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
-                0x00003378                _sbrk_r
- .text._strtol_l.isra.0
-                0x00003398      0x100 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .text.strtol   0x00003498       0x2c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
-                0x00003498                strtol
+                0x00001e58       0xbc E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00001e58                _malloc_r
+ .text._sbrk_r  0x00001f14       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x00001f14                _sbrk_r
  .text._vsprintf_r
-                0x000034c4       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
-                0x000034c4                _vsprintf_r
-                0x000034c4                _vsiprintf_r
+                0x00001f34       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
+                0x00001f34                _vsprintf_r
+                0x00001f34                _vsiprintf_r
  .text.vsprintf
-                0x000034f4       0x14 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
-                0x000034f4                vsiprintf
-                0x000034f4                vsprintf
- .text.__locale_ctype_ptr_l
-                0x00003508        0x6 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
-                0x00003508                __locale_ctype_ptr_l
- .text.__ascii_mbtowc
-                0x0000350e       0x24 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
-                0x0000350e                __ascii_mbtowc
+                0x00001f64       0x14 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
+                0x00001f64                vsiprintf
+                0x00001f64                vsprintf
  .text.__malloc_lock
-                0x00003532        0x2 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
-                0x00003532                __malloc_lock
+                0x00001f78        0x2 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00001f78                __malloc_lock
  .text.__malloc_unlock
-                0x00003534        0x2 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
-                0x00003534                __malloc_unlock
+                0x00001f7a        0x2 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00001f7a                __malloc_unlock
  .text.__ssputs_r
-                0x00003536       0xb6 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
-                0x00003536                __ssputs_r
+                0x00001f7c       0xb6 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00001f7c                __ssputs_r
+ *fill*         0x00002032        0x2 
  .text._svfprintf_r
-                0x000035ec      0x1e8 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
-                0x000035ec                _svfiprintf_r
-                0x000035ec                _svfprintf_r
+                0x00002034      0x1e8 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00002034                _svfiprintf_r
+                0x00002034                _svfprintf_r
  .text._printf_common
-                0x000037d4       0xec E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x000037d4                _printf_common
+                0x0000221c       0xec E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000221c                _printf_common
  .text._printf_i
-                0x000038c0      0x240 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x000038c0                _printf_i
- .text.__ascii_wctomb
-                0x00003b00       0x1a E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
-                0x00003b00                __ascii_wctomb
- .text.memmove  0x00003b1a       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
-                0x00003b1a                memmove
+                0x00002308      0x240 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00002308                _printf_i
+ .text.memmove  0x00002548       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+                0x00002548                memmove
  .text._realloc_r
-                0x00003b4e       0x4c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
-                0x00003b4e                _realloc_r
+                0x0000257c       0x4c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+                0x0000257c                _realloc_r
  .text._malloc_usable_size_r
-                0x00003b9a       0x12 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
-                0x00003b9a                _malloc_usable_size_r
- .text._sbrk    0x00003bac       0x1c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
-                0x00003bac                _sbrk
+                0x000025c8       0x12 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+                0x000025c8                _malloc_usable_size_r
+ *fill*         0x000025da        0x2 
+ .text._sbrk    0x000025dc       0x1c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x000025dc                _sbrk
  *(.rodata)
- .rodata        0x00003bc8       0x97 ./Sources/FlashWriteRead.o
- *fill*         0x00003c5f        0x1 
- .rodata        0x00003c60       0xe8 ./Sources/Ymodem.o
- .rodata        0x00003d48       0x61 ./Sources/main.o
  *(.rodata*)
- *fill*         0x00003da9        0x3 
  .rodata.Flash1_InitConfig0
-                0x00003dac       0x14 ./Generated_Code/Flash1.o
-                0x00003dac                Flash1_InitConfig0
+                0x000025f8       0x14 ./Generated_Code/Flash1.o
+                0x000025f8                Flash1_InitConfig0
  .rodata.clockNameMappings
-                0x00003dc0       0x9e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
-                0x00003dc0                clockNameMappings
- *fill*         0x00003e5e        0x2 
- .rodata.tmpSysClk.7552
-                0x00003e60        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.tmpSysClk.7559
-                0x00003e6c        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.maxSysClksInRUN.7597
-                0x00003e78       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.maxSysClksInVLPR.7596
-                0x00003ecc       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x0000260c       0x9e ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x0000260c                clockNameMappings
+ *fill*         0x000026aa        0x2 
  .rodata.maxSysClksInHSRUN.7598
-                0x00003f20       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata.fircFreq.7641
-                0x00003f74        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .rodata._setlocale_r.str1.1
-                0x00003f78        0x8 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
-                                  0x9 (size before relaxing)
- .rodata.str1.1
-                0x00003f80        0x2 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x000026ac       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.maxSysClksInRUN.7597
+                0x00002700       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.maxSysClksInVLPR.7596
+                0x00002754       0x54 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .rodata.Flash_Erase_Sector.str1.4
+                0x000027a8       0x1f ./Sources/FlashWriteRead.o
+ *fill*         0x000027c7        0x1 
+ .rodata.Flash_Write_Data.str1.4
+                0x000027c8       0x1f ./Sources/FlashWriteRead.o
+ *fill*         0x000027e7        0x1 
+ .rodata.Receive_Packet.str1.4
+                0x000027e8       0x1c ./Sources/Ymodem.o
+ .rodata.Ym_Cmd_Process.str1.4
+                0x00002804       0x49 ./Sources/Ymodem.o
+ *fill*         0x0000284d        0x3 
+ .rodata.Ymodem_Receive_File.str1.4
+                0x00002850       0x7e ./Sources/Ymodem.o
+ *fill*         0x000028ce        0x2 
+ .rodata.main.str1.4
+                0x000028d0       0x70 ./Sources/main.o
+                                 0x6e (size before relaxing)
  .rodata._svfprintf_r.str1.1
-                0x00003f82       0x11 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x00002940       0x11 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
  .rodata._printf_i.str1.1
-                0x00003f93       0x22 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .rodata._ctype_
-                0x00003fb5      0x101 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
-                0x00003fb5                _ctype_
+                0x00002951       0x22 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
  *(.init)
- *fill*         0x000040b6        0x2 
- .init          0x000040b8        0x4 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x000040b8                _init
+ *fill*         0x00002973        0x1 
+ .init          0x00002974        0x4 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00002974                _init
  *(.fini)
- .fini          0x000040bc        0x4 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x000040bc                _fini
- .fini.__stub   0x000040c0        0x8 linker stubs
+ .fini          0x00002978        0x4 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00002978                _fini
+ *fill*         0x0000297c        0x4 
+ .fini.__stub   0x00002980        0x8 linker stubs
  *(.eh_frame)
-                0x000040c8                . = ALIGN (0x4)
+                0x00002988                . = ALIGN (0x4)
 
-.glue_7         0x000040c8        0x0
- .glue_7        0x000040c8        0x0 linker stubs
+.glue_7         0x00002988        0x0
+ .glue_7        0x00002988        0x0 linker stubs
 
-.glue_7t        0x000040c8        0x0
- .glue_7t       0x000040c8        0x0 linker stubs
+.glue_7t        0x00002988        0x0
+ .glue_7t       0x00002988        0x0 linker stubs
 
-.vfp11_veneer   0x000040c8        0x0
- .vfp11_veneer  0x000040c8        0x0 linker stubs
+.vfp11_veneer   0x00002988        0x0
+ .vfp11_veneer  0x00002988        0x0 linker stubs
 
-.v4_bx          0x000040c8        0x0
- .v4_bx         0x000040c8        0x0 linker stubs
+.v4_bx          0x00002988        0x0
+ .v4_bx         0x00002988        0x0 linker stubs
 
-.iplt           0x000040c8        0x0
- .iplt          0x000040c8        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.iplt           0x00002988        0x0
+ .iplt          0x00002988        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
-.ARM            0x000040c8        0x0
-                0x000040c8                __exidx_start = .
+.ARM            0x00002988        0x0
+                0x00002988                __exidx_start = .
  *(.ARM.exidx*)
-                0x000040c8                __exidx_end = .
-                0x000040c8                __etext = .
-                0x000040c8                __DATA_ROM = .
+                0x00002988                __exidx_end = .
+                0x00002988                __etext = .
+                0x00002988                __DATA_ROM = .
 
 .interrupts_ram
                 0x1fff8000      0x400
@@ -1284,19 +950,19 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
                 0x1fff8000                __VECTOR_RAM = DEFINED (__flash_vector_table__)?ORIGIN (m_interrupts):__VECTOR_RAM__
                 0x00000400                __RAM_VECTOR_TABLE_SIZE = DEFINED (__flash_vector_table__)?0x0:(__interrupts_ram_end__ - __interrupts_ram_start__)
 
-.data           0x1fff8400      0x310 load address 0x000040c8
+.data           0x1fff8400      0x1a0 load address 0x00002988
                 0x1fff8400                . = ALIGN (0x4)
                 0x1fff8400                __DATA_RAM = .
                 0x1fff8400                __data_start__ = .
  *(.data)
  *(.data*)
- .data.peripheralClockConfig0
-                0x1fff8400       0x19 ./Generated_Code/clockMan1.o
-                0x1fff8400                peripheralClockConfig0
- *fill*         0x1fff8419        0x3 
  .data.clockMan1_InitConfig0
-                0x1fff841c       0x78 ./Generated_Code/clockMan1.o
-                0x1fff841c                clockMan1_InitConfig0
+                0x1fff8400       0x78 ./Generated_Code/clockMan1.o
+                0x1fff8400                clockMan1_InitConfig0
+ .data.peripheralClockConfig0
+                0x1fff8478       0x19 ./Generated_Code/clockMan1.o
+                0x1fff8478                peripheralClockConfig0
+ *fill*         0x1fff8491        0x3 
  .data.peripheralClockConfig.7360
                 0x1fff8494       0xa0 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .data.bits_remain
@@ -1305,59 +971,55 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
  .data.packets_index
                 0x1fff8538        0x4 ./Sources/Ymodem.o
                 0x1fff8538                packets_index
- .data.fac_us   0x1fff853c        0x4 ./Sources/latency.o
  .data._impure_ptr
-                0x1fff8540        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
-                0x1fff8540                _impure_ptr
+                0x1fff853c        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x1fff853c                _impure_ptr
  .data.impure_data
-                0x1fff8544       0x60 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
- .data.__global_locale
-                0x1fff85a4      0x16c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
-                0x1fff85a4                __global_locale
-                0x1fff8710                . = ALIGN (0x4)
-                0x1fff8710                __data_end__ = .
-                0x000043d8                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
-                0x000043d8                __CODE_ROM = __DATA_END
+                0x1fff8540       0x60 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x1fff85a0                . = ALIGN (0x4)
+                0x1fff85a0                __data_end__ = .
+                0x00002b28                __DATA_END = (__DATA_ROM + (__data_end__ - __data_start__))
+                0x00002b28                __CODE_ROM = __DATA_END
 
-.igot.plt       0x1fff8710        0x0 load address 0x000043d8
- .igot.plt      0x1fff8710        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.igot.plt       0x1fff85a0        0x0 load address 0x00002b28
+ .igot.plt      0x1fff85a0        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
-.code           0x1fff8710       0x5c load address 0x000043d8
-                0x1fff8710                . = ALIGN (0x4)
-                0x1fff8710                __CODE_RAM = .
-                0x1fff8710                __code_start__ = .
-                0x1fff8710                __code_ram_start__ = .
+.code           0x1fff85a0       0x38 load address 0x00002b28
+                0x1fff85a0                . = ALIGN (0x4)
+                0x1fff85a0                __CODE_RAM = .
+                0x1fff85a0                __code_start__ = .
+                0x1fff85a0                __code_ram_start__ = .
  *(.code_ram)
- .code_ram      0x1fff8710       0x5c ./SDK/platform/drivers/src/flash/flash_driver.o
-                0x1fff876c                . = ALIGN (0x4)
-                0x1fff876c                __code_end__ = .
-                0x1fff876c                __code_ram_end__ = .
-                0x00004434                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
-                0x00004434                __CUSTOM_ROM = __CODE_END
+ .code_ram      0x1fff85a0       0x38 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x1fff85d8                . = ALIGN (0x4)
+                0x1fff85d8                __code_end__ = .
+                0x1fff85d8                __code_ram_end__ = .
+                0x00002b60                __CODE_END = (__CODE_ROM + (__code_end__ - __code_start__))
+                0x00002b60                __CUSTOM_ROM = __CODE_END
 
-.rel.dyn        0x1fff876c        0x0 load address 0x00004434
- .rel.iplt      0x1fff876c        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.rel.dyn        0x1fff85d8        0x0 load address 0x00002b60
+ .rel.iplt      0x1fff85d8        0x0 e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
 .customSectionBlock
-                0x20000000        0x0 load address 0x00004434
+                0x20000000        0x0 load address 0x00002b60
                 0x20000000                __customSection_start__ = .
  *(.customSection)
                 0x20000000                __customSection_end__ = .
-                0x00004434                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
-                0x00004434                __rom_end = __CUSTOM_END
+                0x00002b60                __CUSTOM_END = (__CUSTOM_ROM + (__customSection_end__ - __customSection_start__))
+                0x00002b60                __rom_end = __CUSTOM_END
 
-.bss            0x20000000      0x5a4
+.bss            0x20000000      0x5a8
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                __BSS_START = .
                 0x20000000                __bss_start__ = .
  *(.bss)
  *(.bss*)
- .bss.g_TClkFreq
-                0x20000000        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
-                0x20000000                g_TClkFreq
  .bss.g_RtcClkInFreq
-                0x2000000c        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
-                0x2000000c                g_RtcClkInFreq
+                0x20000000        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x20000000                g_RtcClkInFreq
+ .bss.g_TClkFreq
+                0x20000004        0xc ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x20000004                g_TClkFreq
  .bss.g_xtal0ClkFreq
                 0x20000010        0x4 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
                 0x20000010                g_xtal0ClkFreq
@@ -1369,45 +1031,45 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
  .bss.LPUART1_TX_BUF
                 0x20000034       0xc8 ./Sources/LPUART.o
                 0x20000034                LPUART1_TX_BUF
+ .bss.data_c    0x200000fc        0x1 ./Sources/LPUART.o
+                0x200000fc                data_c
+ *fill*         0x200000fd        0x3 
  .bss.receivebuff
-                0x200000fc      0x405 ./Sources/LPUART.o
-                0x200000fc                receivebuff
- .bss.data_c    0x20000501        0x1 ./Sources/LPUART.o
-                0x20000501                data_c
- *fill*         0x20000502        0x2 
- .bss.rev_i     0x20000504        0x4 ./Sources/LPUART.o
-                0x20000504                rev_i
+                0x20000100      0x405 ./Sources/LPUART.o
+                0x20000100                receivebuff
+ *fill*         0x20000505        0x3 
+ .bss.rev_i     0x20000508        0x4 ./Sources/LPUART.o
+                0x20000508                rev_i
  .bss.Erase_Pages
-                0x20000508        0x4 ./Sources/Ymodem.o
-                0x20000508                Erase_Pages
+                0x2000050c        0x4 ./Sources/Ymodem.o
+                0x2000050c                Erase_Pages
  .bss.file_name
-                0x2000050c       0x78 ./Sources/Ymodem.o
-                0x2000050c                file_name
+                0x20000510       0x78 ./Sources/Ymodem.o
+                0x20000510                file_name
  .bss.file_size
-                0x20000584        0x8 ./Sources/Ymodem.o
-                0x20000584                file_size
+                0x20000588        0x8 ./Sources/Ymodem.o
+                0x20000588                file_size
  .bss.jump_to_application.7706
-                0x2000058c        0x4 ./Sources/main.o
- .bss.stack_pointer.7707
                 0x20000590        0x4 ./Sources/main.o
+ .bss.stack_pointer.7707
+                0x20000594        0x4 ./Sources/main.o
  .bss.__malloc_free_list
-                0x20000594        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x20000594                __malloc_free_list
- .bss.__malloc_sbrk_start
                 0x20000598        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x20000598                __malloc_sbrk_start
+                0x20000598                __malloc_free_list
+ .bss.__malloc_sbrk_start
+                0x2000059c        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x2000059c                __malloc_sbrk_start
  .bss.heap_end.5365
-                0x2000059c        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x200005a0        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
  *(COMMON)
- COMMON         0x200005a0        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
-                0x200005a0                errno
-                0x200005a4                . = ALIGN (0x4)
-                0x200005a4                __bss_end__ = .
-                0x200005a4                __BSS_END = .
+ COMMON         0x200005a4        0x4 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x200005a4                errno
+                0x200005a8                . = ALIGN (0x4)
+                0x200005a8                __bss_end__ = .
+                0x200005a8                __BSS_END = .
 
-.heap           0x200005a4      0x404
+.heap           0x200005a8      0x400
                 0x200005a8                . = ALIGN (0x8)
- *fill*         0x200005a4        0x4 
                 0x200005a8                __end__ = .
                 0x200005a8                __heap_start__ = .
                 0x200005a8                PROVIDE (end, .)
@@ -1481,72 +1143,62 @@ LOAD e:/nxp/s32ds_arm_v2.2/s32ds/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/bin/../
  .ARM.attributes
                 0x00000492       0x1b E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
  .ARM.attributes
-                0x000004ad       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
+                0x000004ad       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
  .ARM.attributes
-                0x000004e1       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
+                0x000004e1       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .ARM.attributes
-                0x00000515       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+                0x00000515       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
  .ARM.attributes
-                0x00000549       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
+                0x00000549       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x0000057d       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x0000057d       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
  .ARM.attributes
-                0x000005b1       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+                0x000005b1       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
  .ARM.attributes
-                0x000005e5       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000005d1       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
  .ARM.attributes
-                0x00000619       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x00000605       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
  .ARM.attributes
-                0x0000064d       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+                0x00000639       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
  .ARM.attributes
-                0x00000681       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
- .ARM.attributes
-                0x000006b5       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
- .ARM.attributes
-                0x000006d5       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .ARM.attributes
-                0x00000709       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
- .ARM.attributes
-                0x0000073d       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
- .ARM.attributes
-                0x00000771       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x0000066d       0x34 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
                 0x00000001                ASSERT ((__rom_end <= (ORIGIN (m_text) + LENGTH (m_text))), Region m_text overflowed!)
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data_2 overflowed with stack and heap)
 OUTPUT(Bootloader.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x1042d
+.debug_info     0x00000000    0x12d18
  .debug_info    0x00000000     0x11de ./Generated_Code/Flash1.o
  .debug_info    0x000011de     0x1313 ./Generated_Code/clockMan1.o
  .debug_info    0x000024f1       0x26 ./Project_Settings/Startup_Code/startup_S32K144.o
- .debug_info    0x00002517      0x51e ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .debug_info    0x00002a35      0x46d ./SDK/platform/devices/startup.o
- .debug_info    0x00002ea2     0x3e7a ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .debug_info    0x00006d1c     0x1677 ./SDK/platform/drivers/src/flash/flash_driver.o
- .debug_info    0x00008393      0x9a7 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
- .debug_info    0x00008d3a     0x148b ./Sources/FlashWriteRead.o
- .debug_info    0x0000a1c5     0x21fd ./Sources/LPUART.o
- .debug_info    0x0000c3c2      0x2a2 ./Sources/RGB_LED.o
- .debug_info    0x0000c664     0x1e32 ./Sources/Ymodem.o
- .debug_info    0x0000e496      0x21e ./Sources/latency.o
- .debug_info    0x0000e6b4     0x1d79 ./Sources/main.o
+ .debug_info    0x00002517      0x521 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_info    0x00002a38      0x2ad ./SDK/platform/devices/startup.o
+ .debug_info    0x00002ce5     0x5ae6 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_info    0x000087cb     0x188f ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_info    0x0000a05a      0x997 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_info    0x0000a9f1     0x16bc ./Sources/FlashWriteRead.o
+ .debug_info    0x0000c0ad     0x22e6 ./Sources/LPUART.o
+ .debug_info    0x0000e393      0x2a2 ./Sources/RGB_LED.o
+ .debug_info    0x0000e635     0x2553 ./Sources/Ymodem.o
+ .debug_info    0x00010b88      0x22e ./Sources/latency.o
+ .debug_info    0x00010db6     0x1f62 ./Sources/main.o
 
-.debug_abbrev   0x00000000     0x166d
+.debug_abbrev   0x00000000     0x19fc
  .debug_abbrev  0x00000000      0x11c ./Generated_Code/Flash1.o
  .debug_abbrev  0x0000011c      0x129 ./Generated_Code/clockMan1.o
  .debug_abbrev  0x00000245       0x14 ./Project_Settings/Startup_Code/startup_S32K144.o
- .debug_abbrev  0x00000259      0x122 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .debug_abbrev  0x0000037b      0x105 ./SDK/platform/devices/startup.o
- .debug_abbrev  0x00000480      0x2ca ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .debug_abbrev  0x0000074a      0x227 ./SDK/platform/drivers/src/flash/flash_driver.o
- .debug_abbrev  0x00000971      0x1b3 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
- .debug_abbrev  0x00000b24      0x1c9 ./Sources/FlashWriteRead.o
- .debug_abbrev  0x00000ced      0x2c0 ./Sources/LPUART.o
- .debug_abbrev  0x00000fad       0xce ./Sources/RGB_LED.o
- .debug_abbrev  0x0000107b      0x296 ./Sources/Ymodem.o
- .debug_abbrev  0x00001311      0x123 ./Sources/latency.o
- .debug_abbrev  0x00001434      0x239 ./Sources/main.o
+ .debug_abbrev  0x00000259      0x140 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_abbrev  0x00000399       0xe0 ./SDK/platform/devices/startup.o
+ .debug_abbrev  0x00000479      0x3e3 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_abbrev  0x0000085c      0x2bf ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_abbrev  0x00000b1b      0x1f4 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_abbrev  0x00000d0f      0x1f3 ./Sources/FlashWriteRead.o
+ .debug_abbrev  0x00000f02      0x346 ./Sources/LPUART.o
+ .debug_abbrev  0x00001248       0xce ./Sources/RGB_LED.o
+ .debug_abbrev  0x00001316      0x32b ./Sources/Ymodem.o
+ .debug_abbrev  0x00001641      0x12f ./Sources/latency.o
+ .debug_abbrev  0x00001770      0x28c ./Sources/main.o
 
-.debug_aranges  0x00000000      0x858
+.debug_aranges  0x00000000      0x4e0
  .debug_aranges
                 0x00000000       0x18 ./Generated_Code/Flash1.o
  .debug_aranges
@@ -1558,41 +1210,41 @@ OUTPUT(Bootloader.elf elf32-littlearm)
  .debug_aranges
                 0x00000080       0x20 ./SDK/platform/devices/startup.o
  .debug_aranges
-                0x000000a0      0x470 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                0x000000a0      0x120 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
  .debug_aranges
-                0x00000510      0x148 ./SDK/platform/drivers/src/flash/flash_driver.o
+                0x000001c0      0x130 ./SDK/platform/drivers/src/flash/flash_driver.o
  .debug_aranges
-                0x00000658       0x70 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                0x000002f0       0x70 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
  .debug_aranges
-                0x000006c8       0x40 ./Sources/FlashWriteRead.o
+                0x00000360       0x40 ./Sources/FlashWriteRead.o
  .debug_aranges
-                0x00000708       0x50 ./Sources/LPUART.o
+                0x000003a0       0x50 ./Sources/LPUART.o
  .debug_aranges
-                0x00000758       0x48 ./Sources/RGB_LED.o
+                0x000003f0       0x48 ./Sources/RGB_LED.o
  .debug_aranges
-                0x000007a0       0x50 ./Sources/Ymodem.o
+                0x00000438       0x40 ./Sources/Ymodem.o
  .debug_aranges
-                0x000007f0       0x40 ./Sources/latency.o
+                0x00000478       0x40 ./Sources/latency.o
  .debug_aranges
-                0x00000830       0x28 ./Sources/main.o
+                0x000004b8       0x28 ./Sources/main.o
 
-.debug_line     0x00000000     0x4381
+.debug_line     0x00000000     0x3f11
  .debug_line    0x00000000      0x326 ./Generated_Code/Flash1.o
  .debug_line    0x00000326      0x329 ./Generated_Code/clockMan1.o
  .debug_line    0x0000064f       0x82 ./Project_Settings/Startup_Code/startup_S32K144.o
- .debug_line    0x000006d1      0x20f ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .debug_line    0x000008e0      0x1b2 ./SDK/platform/devices/startup.o
- .debug_line    0x00000a92     0x15c3 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .debug_line    0x00002055      0x7fd ./SDK/platform/drivers/src/flash/flash_driver.o
- .debug_line    0x00002852      0x396 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
- .debug_line    0x00002be8      0x419 ./Sources/FlashWriteRead.o
- .debug_line    0x00003001      0x538 ./Sources/LPUART.o
- .debug_line    0x00003539      0x1ed ./Sources/RGB_LED.o
- .debug_line    0x00003726      0x59c ./Sources/Ymodem.o
- .debug_line    0x00003cc2      0x254 ./Sources/latency.o
- .debug_line    0x00003f16      0x46b ./Sources/main.o
+ .debug_line    0x000006d1      0x203 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_line    0x000008d4      0x177 ./SDK/platform/devices/startup.o
+ .debug_line    0x00000a4b     0x110d ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_line    0x00001b58      0x7c9 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_line    0x00002321      0x36e ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_line    0x0000268f      0x434 ./Sources/FlashWriteRead.o
+ .debug_line    0x00002ac3      0x58e ./Sources/LPUART.o
+ .debug_line    0x00003051      0x1e9 ./Sources/RGB_LED.o
+ .debug_line    0x0000323a      0x5e0 ./Sources/Ymodem.o
+ .debug_line    0x0000381a      0x24a ./Sources/latency.o
+ .debug_line    0x00003a64      0x4ad ./Sources/main.o
 
-.debug_str      0x00000000     0x5461
+.debug_str      0x00000000     0x548b
  .debug_str     0x00000000     0x1e7c ./Generated_Code/Flash1.o
                                0x1f1a (size before relaxing)
  .debug_str     0x00001e7c      0x4b6 ./Generated_Code/clockMan1.o
@@ -1602,25 +1254,25 @@ OUTPUT(Bootloader.elf elf32-littlearm)
  .debug_str     0x00002371      0x1f8 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
                                 0x436 (size before relaxing)
  .debug_str     0x00002569      0x20c ./SDK/platform/devices/startup.o
-                                0x4ca (size before relaxing)
- .debug_str     0x00002775     0x152c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
-                               0x3904 (size before relaxing)
- .debug_str     0x00003ca1      0xcbb ./SDK/platform/drivers/src/flash/flash_driver.o
-                               0x18b7 (size before relaxing)
- .debug_str     0x0000495c      0x1f3 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+                                0x425 (size before relaxing)
+ .debug_str     0x00002775     0x155d ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+                               0x3935 (size before relaxing)
+ .debug_str     0x00003cd2      0xce0 ./SDK/platform/drivers/src/flash/flash_driver.o
+                               0x18dc (size before relaxing)
+ .debug_str     0x000049b2      0x19d ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
                                 0xb7b (size before relaxing)
- .debug_str     0x00004b4f       0xd8 ./Sources/FlashWriteRead.o
-                               0x202c (size before relaxing)
- .debug_str     0x00004c27      0x547 ./Sources/LPUART.o
-                               0x2b7e (size before relaxing)
- .debug_str     0x0000516e       0x87 ./Sources/RGB_LED.o
+ .debug_str     0x00004b4f       0xf0 ./Sources/FlashWriteRead.o
+                               0x209d (size before relaxing)
+ .debug_str     0x00004c3f      0x54f ./Sources/LPUART.o
+                               0x2b95 (size before relaxing)
+ .debug_str     0x0000518e       0x87 ./Sources/RGB_LED.o
                                 0x300 (size before relaxing)
- .debug_str     0x000051f5      0x183 ./Sources/Ymodem.o
-                               0x2553 (size before relaxing)
- .debug_str     0x00005378       0x8d ./Sources/latency.o
+ .debug_str     0x00005215      0x196 ./Sources/Ymodem.o
+                               0x25cf (size before relaxing)
+ .debug_str     0x000053ab       0x84 ./Sources/latency.o
                                 0x2a4 (size before relaxing)
- .debug_str     0x00005405       0x5c ./Sources/main.o
-                               0x2506 (size before relaxing)
+ .debug_str     0x0000542f       0x5c ./Sources/main.o
+                               0x25aa (size before relaxing)
 
 .comment        0x00000000       0xa0
  .comment       0x00000000       0xa0 ./Generated_Code/Flash1.o
@@ -1638,47 +1290,55 @@ OUTPUT(Bootloader.elf elf32-littlearm)
  .comment       0x000000a0       0xa1 ./Sources/latency.o
  .comment       0x000000a0       0xa1 ./Sources/main.o
 
-.debug_ranges   0x00000000      0x758
+.debug_loc      0x00000000     0x7c9b
+ .debug_loc     0x00000000       0xeb ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_loc     0x000000eb       0xec ./SDK/platform/devices/startup.o
+ .debug_loc     0x000001d7     0x4e0b ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_loc     0x00004fe2     0x1e38 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_loc     0x00006e1a      0x252 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_loc     0x0000706c      0x2f7 ./Sources/FlashWriteRead.o
+ .debug_loc     0x00007363      0x1f2 ./Sources/LPUART.o
+ .debug_loc     0x00007555      0x5a3 ./Sources/Ymodem.o
+ .debug_loc     0x00007af8      0x161 ./Sources/latency.o
+ .debug_loc     0x00007c59       0x42 ./Sources/main.o
+
+.debug_ranges   0x00000000      0x730
  .debug_ranges  0x00000000       0x20 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
  .debug_ranges  0x00000020       0x10 ./SDK/platform/devices/startup.o
- .debug_ranges  0x00000030      0x460 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .debug_ranges  0x00000490      0x138 ./SDK/platform/drivers/src/flash/flash_driver.o
- .debug_ranges  0x000005c8       0x60 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
- .debug_ranges  0x00000628       0x30 ./Sources/FlashWriteRead.o
- .debug_ranges  0x00000658       0x40 ./Sources/LPUART.o
- .debug_ranges  0x00000698       0x38 ./Sources/RGB_LED.o
- .debug_ranges  0x000006d0       0x40 ./Sources/Ymodem.o
- .debug_ranges  0x00000710       0x30 ./Sources/latency.o
- .debug_ranges  0x00000740       0x18 ./Sources/main.o
+ .debug_ranges  0x00000030      0x388 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_ranges  0x000003b8      0x190 ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_ranges  0x00000548       0x98 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_ranges  0x000005e0       0x30 ./Sources/FlashWriteRead.o
+ .debug_ranges  0x00000610       0x40 ./Sources/LPUART.o
+ .debug_ranges  0x00000650       0x38 ./Sources/RGB_LED.o
+ .debug_ranges  0x00000688       0x60 ./Sources/Ymodem.o
+ .debug_ranges  0x000006e8       0x30 ./Sources/latency.o
+ .debug_ranges  0x00000718       0x18 ./Sources/main.o
 
-.debug_frame    0x00000000     0x26e4
- .debug_frame   0x00000000       0x80 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
- .debug_frame   0x00000080       0x38 ./SDK/platform/devices/startup.o
- .debug_frame   0x000000b8     0x1524 ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
- .debug_frame   0x000015dc      0x584 ./SDK/platform/drivers/src/flash/flash_driver.o
- .debug_frame   0x00001b60      0x1b8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
- .debug_frame   0x00001d18       0xcc ./Sources/FlashWriteRead.o
- .debug_frame   0x00001de4      0x120 ./Sources/LPUART.o
- .debug_frame   0x00001f04       0xd0 ./Sources/RGB_LED.o
- .debug_frame   0x00001fd4      0x114 ./Sources/Ymodem.o
- .debug_frame   0x000020e8       0xcc ./Sources/latency.o
- .debug_frame   0x000021b4       0x54 ./Sources/main.o
- .debug_frame   0x00002208       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
- .debug_frame   0x00002238       0x28 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
- .debug_frame   0x00002260       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00002280       0x38 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x000022b8       0x2c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x000022e4       0x2c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00002310       0x88 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .debug_frame   0x00002398       0x40 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
- .debug_frame   0x000023d8       0x68 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .debug_frame   0x00002440       0x48 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .debug_frame   0x00002488       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
- .debug_frame   0x000024b8       0x90 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
- .debug_frame   0x00002548       0x60 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x000025a8       0x5c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
- .debug_frame   0x00002604       0x3c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .debug_frame   0x00002640       0x28 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .debug_frame   0x00002668       0x3c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x000026a4       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
- .debug_frame   0x000026c4       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+.debug_frame    0x00000000      0xf14
+ .debug_frame   0x00000000       0x40 ./SDK/platform/devices/S32K144/startup/system_S32K144.o
+ .debug_frame   0x00000040       0x2c ./SDK/platform/devices/startup.o
+ .debug_frame   0x0000006c      0x37c ./SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.o
+ .debug_frame   0x000003e8      0x39c ./SDK/platform/drivers/src/flash/flash_driver.o
+ .debug_frame   0x00000784       0xd8 ./SDK/platform/drivers/src/interrupt/interrupt_manager.o
+ .debug_frame   0x0000085c       0x98 ./Sources/FlashWriteRead.o
+ .debug_frame   0x000008f4       0xc8 ./Sources/LPUART.o
+ .debug_frame   0x000009bc       0x70 ./Sources/RGB_LED.o
+ .debug_frame   0x00000a2c       0xb0 ./Sources/Ymodem.o
+ .debug_frame   0x00000adc       0x80 ./Sources/latency.o
+ .debug_frame   0x00000b5c       0x50 ./Sources/main.o
+ .debug_frame   0x00000bac       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000bdc       0x28 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000c04       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000c24       0x38 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000c5c       0x2c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000c88       0x2c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000cb4       0x40 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsprintf.o)
+ .debug_frame   0x00000cf4       0x30 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000d24       0x90 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00000db4       0x60 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000e14       0x5c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000e70       0x28 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000e98       0x3c E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00000ed4       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000ef4       0x20 E:/NXP/S32DS_ARM_v2.2/S32DS/build_tools/gcc_v6.3/gcc-6.3-arm32-eabi/arm-none-eabi/newlib/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)

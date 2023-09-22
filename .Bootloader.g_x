@@ -35,7 +35,7 @@
       <File Name="SDK/platform/devices/startup.h" FileDate="2023-08-24, 10:28:46" FileAge="1692844126745" FileType="1048576" CompNumb="1" />
       <File Name="SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h" FileDate="2023-08-24, 10:28:46" FileAge="1692844126713" FileType="1048576" CompNumb="3" />
       <File Name="SDK/platform/drivers/inc/flash_driver.h" FileDate="2023-08-24, 10:43:02" FileAge="1692844982990" FileType="1048576" CompNumb="5" />
-      <File Name="Sources/main.c" FileDate="2023-09-12, 16:47:59" FileAge="1694508479354" FileType="128" />
+      <File Name="Sources/main.c" FileDate="2023-09-22, 16:28:31" FileAge="1695371311068" FileType="128" />
       <File Name="Generated_Code/pin_mux.c" FileDate="2023-08-24, 10:28:46" FileAge="1692844126760" FileType="45637" CompNumb="2" />
       <File Name="SDK/platform/devices/startup.c" FileDate="2023-08-24, 10:28:46" FileAge="1692844126745" FileType="1048576" CompNumb="1" />
       <File Name="SDK/platform/drivers/src/flash/flash_driver.c" FileDate="2023-08-24, 10:43:02" FileAge="1692844982988" FileType="1048576" CompNumb="5" />
@@ -62,5 +62,5 @@
       <File Name="Generated_Code/clockMan1.h" FileDate="2023-08-24, 10:28:46" FileAge="1692844126760" FileType="45637" CompNumb="3" />
     </GeneratedByPE>
   </GeneratedFilesList>
-  <CodeGenReference>18</CodeGenReference>
+  <CodeGenReference>22</CodeGenReference>
 </CodeGenerationInfo>

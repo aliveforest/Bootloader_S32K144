@@ -12,7 +12,7 @@
 -I"D:/dengtongbei/workspaceS32DS.ARM.2.2/Bootloader/SDK/platform/devices/S32K144/startup"
 -I"D:/dengtongbei/workspaceS32DS.ARM.2.2/Bootloader/SDK/platform/drivers/inc"
 -I"E:/NXP/S32DS_ARM_v2.2/S32DS/software/S32SDK_S32K1xx_RTM_3.0.0/platform/drivers/inc"
--O0
+-O1
 -g
 -pedantic
 -Wall

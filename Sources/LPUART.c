@@ -12,6 +12,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 
+#define YMODEM   /* 使用YMODEM协议 */
 
 /* Init. summary: 115200 baud, 1 stop bit, 8 bit format, no parity */
 void LPUART1_init(void)
@@ -60,6 +61,17 @@ void LPUART1_init(void)
 	while((bool)((LPUART1->CTRL & LPUART_CTRL_RE_MASK) != 0U) != 1u) {}
 	LPUART1_NVIC_init_IRQs(LPUART1_RxTx_IRQn, 0x00);
 }
+/* 中断配置 */
+void LPUART1_NVIC_init_IRQs (uint32_t vector_number, uint32_t priority) {
+	uint8_t shift = (uint8_t) (8U - FEATURE_NVIC_PRIO_BITS);
+	/* 清除任何挂起的 IRQ */
+	S32_NVIC->ISER[(uint32_t)(vector_number) >> 5U] = (uint32_t)(1U << ((uint32_t)(vector_number) & (uint32_t)0x1FU));
+	/* 使能 IRQ */
+	S32_NVIC->ICPR[(uint32_t)(vector_number) >> 5U] = (uint32_t)(1U << ((uint32_t)(vector_number) & (uint32_t)0x1FU));
+	/* 优先级设置 */
+	S32_NVIC->IP[(uint32_t)vector_number] = (uint8_t)(((((uint32_t)priority) << shift)) & 0xFFUL);
+}
+
 /* 发送单个字符函数 */
 uint8_t LPUART1_transmit_char(uint8_t send) {   
 	while((LPUART1->STAT & LPUART_STAT_TDRE_MASK)>>LPUART_STAT_TDRE_SHIFT==0);
@@ -99,6 +111,7 @@ uint8_t LPUART1_receive_char(uint8_t * rec, uint32_t timeout) {
 	return 2;
 }
 
+
 uint8_t receivebuff[PACKET_HEAD+PACKET_1024_SIZE+PACKET_TAIL];
 volatile uint8_t data_c=0;
 volatile uint32_t rev_i=0;
@@ -122,6 +135,7 @@ void LPUART1_RxTx_IRQHandler(void){
 }
 
 
+
 // char receivebuff[200];
 // uint16_t rev_i=0;
 // void LPUART1_RxTx_IRQHandler(void){
@@ -136,16 +150,8 @@ void LPUART1_RxTx_IRQHandler(void){
 // 	}
 // }
 
-/* 中断配置 */
-void LPUART1_NVIC_init_IRQs (uint32_t vector_number, uint32_t priority) {
-	uint8_t shift = (uint8_t) (8U - FEATURE_NVIC_PRIO_BITS);
-	/* 清除任何挂起的 IRQ */
-	S32_NVIC->ISER[(uint32_t)(vector_number) >> 5U] = (uint32_t)(1U << ((uint32_t)(vector_number) & (uint32_t)0x1FU));
-	/* 使能 IRQ */
-	S32_NVIC->ICPR[(uint32_t)(vector_number) >> 5U] = (uint32_t)(1U << ((uint32_t)(vector_number) & (uint32_t)0x1FU));
-	/* 优先级设置 */
-	S32_NVIC->IP[(uint32_t)vector_number] = (uint8_t)(((((uint32_t)priority) << shift)) & 0xFFUL);
-}
+
+
 
 
 

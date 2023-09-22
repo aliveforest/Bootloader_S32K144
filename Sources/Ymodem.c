@@ -37,6 +37,7 @@ static ret_t Ym_Cmd_Process(uint8_t cmd_c){
     }
 }
 
+/* 清空 Ym_F 结构体 */
 void Clear_YM(YmFrame_t *Ym_F){
 	Ym_F->HEAD=0;
     Ym_F->Index=0;
@@ -77,7 +78,6 @@ static ret_t File_Information_Storage(YmFrame_t *Ym_F){
 
 volatile uint32_t bits_remain = 1024u; /* 记录剩余多少字节的数据未接收 */
 volatile int32_t packets_index = -1;
-
 /* 通过Ymodem协议接收一个文件 */
 ret_t Ymodem_Receive_File(uint32_t FlashDestination, uint32_t timeout) {
     uint8_t file_done=0;
@@ -98,7 +98,7 @@ ret_t Ymodem_Receive_File(uint32_t FlashDestination, uint32_t timeout) {
     			Clear_YM(Ym_F);/* 清空Ym_F所有内容 */
     			return RE_TMOUT;
     		}
-    		if(packets_index == -1 || j>15){
+    		if(packets_index == -1 || j<15){
     			Send_Byte(YM_C); /* 发送握手信号 */
     		}
 			later_ms(200);   /* 延时，等待串口接收数据 */
