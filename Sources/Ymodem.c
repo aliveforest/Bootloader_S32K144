@@ -98,7 +98,7 @@ ret_t Ymodem_Receive_File(uint32_t FlashDestination, uint32_t timeout) {
     			Clear_YM(Ym_F);/* 清空Ym_F所有内容 */
     			return RE_TMOUT;
     		}
-    		if(packets_index == -1 || j<15){
+    		if(packets_index == -1 ){
     			Send_Byte(YM_C); /* 发送握手信号 */
     		}
 			later_ms(200);   /* 延时，等待串口接收数据 */

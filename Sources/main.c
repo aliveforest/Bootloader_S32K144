@@ -34,12 +34,12 @@
 
 volatile int exit_code = 0;
 
-#define APP_START_ADDRESS 0x00009000ul // app 初始化地�?????
+#define APP_START_ADDRESS 0x00009000ul // app 初始化地�??????
 /* Bootloader to App  */
 void Boot_to_App(uint32_t appEntry, uint32_t appstack) {
 	static void (*jump_to_application)(void);
 	static uint32_t stack_pointer;
-	jump_to_application = (void (*)(void))appEntry; /*函数指针指向app的复位向量表的地�?????。注意将地址强转成函数入口地�????? */
+	jump_to_application = (void (*)(void))appEntry; /*函数指针指向app的复位向量表的地�??????。注意将地址强转成函数入口地�?????? */
 	stack_pointer = appstack;
 	S32_SCB->VTOR = (uint32_t)APP_START_ADDRESS; // 设置中断向量
 	INT_SYS_DisableIRQGlobal();					 // 关闭全局中断
@@ -49,7 +49,7 @@ void Boot_to_App(uint32_t appEntry, uint32_t appstack) {
 }
 
 
-/* 1 �?? = 4 字节 (1 word = 4 bytes) 32�??
+/* 1 �??? = 4 字节 (1 word = 4 bytes) 32�???
  * 1字节 =8 比特 (1 byte = 8bits)
  * 1 Byte = 8 Bits
  * 1 KB = 1024 Bytes
