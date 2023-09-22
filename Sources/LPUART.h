@@ -19,5 +19,5 @@ void LPUART1_transmit_string(char *data_string);
 void LPUART1_printf(char *fmt, ...);
 uint8_t LPUART1_receive_char(uint8_t * rec, uint32_t timeout);
 void LPUART1_RxTx_IRQHandler(void);
-void LPUART1_NVIC_init_IRQs (void);
+void LPUART1_NVIC_init_IRQs (uint32_t vector_number, uint32_t priority);
 #endif /* LPUART_H_ */

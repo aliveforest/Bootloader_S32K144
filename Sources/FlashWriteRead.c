@@ -20,7 +20,7 @@ status_t Flash_Erase_Write_Data(const flash_ssd_config_t * pSSDConfig, uint32_t 
 		LPUART1_printf("Successful Erase!\r\n");
 		/* 擦除成功再 Write */
 		ret_status = FLASH_DRV_Program(pSSDConfig, Address, size, data);
-		later_ms(200);
+		later_ms(20);
 		if(ret_status == STATUS_SUCCESS) {
 				LPUART1_printf("Successful Write!\r\n");
 		}else{
@@ -40,7 +40,7 @@ status_t Flash_Erase_Sector(const flash_ssd_config_t * pSSDConfig, uint32_t Addr
 	/* Erase */
 	INT_SYS_DisableIRQGlobal(); /* 关闭全局中断 */
 	ret_status = FLASH_DRV_EraseSector(pSSDConfig, Address, size);
-	later_ms(200);
+//	later_ms(2);
 	if(ret_status == STATUS_SUCCESS) {
 //		LPUART1_printf("Successful Erase!\r\n");
 	}else{
@@ -56,7 +56,7 @@ status_t Flash_Write_Data(const flash_ssd_config_t * pSSDConfig, uint32_t Addres
 	INT_SYS_DisableIRQGlobal(); /* 关闭全局中断 */
 	/* Write */
 	ret_status = FLASH_DRV_Program(pSSDConfig, Address, size, data);
-	later_ms(200);
+//	later_ms(2);
 	if(ret_status == STATUS_SUCCESS) {
 //			LPUART1_printf("Successful Write!\r\n");
 	}else{
